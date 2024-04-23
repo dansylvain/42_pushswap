@@ -1,3 +1,5 @@
+![Nom de l'image](https://github.com/dansylvain/assets/blob/main/pictures/push_swap.gif?raw=true)
+
 # 42 Push_Swap
 
 readme template from Sargis-Hovsepyan (https://github.com/42YerevanProjects/push_swap)
