@@ -71,6 +71,7 @@ If the sorting is correct, checker will output **OK**. Otherwise, it will output
 
 
 ## Dependencies
+My implementation of the "push_swap" project includes all necessary dependencies within the source code, requiring no additional installations.
 
 ## Algorithm
 I found a very inspiring article presenting the so-called "turk algorithm" and I decided to implement it using circular double linked lists, for the sake of learning new programming notions. I also added a structure to store some data.
@@ -118,5 +119,5 @@ Links
 
 - [push swap visualizer](https://github.com/o-reo/push_swap_visualizer)
 
-
+- [My implementation of the 42 — push_swap project](https://medium.com/@dansylvain84/my-implementation-of-the-42-push-swap-project-2706fd8c2e9f)
 
