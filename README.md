@@ -1,10 +1,22 @@
-![Nom de l'image](https://github.com/dansylvain/assets/blob/main/pictures/push_swap.gif?raw=true)
+# Push_swap Project Documentation
+Because swap_push isn't as natural
+
+## Introduction
+
+## Execution
+
+## Dependencies
+
+## Algorithm
+
+## Evaluation Criteria
+
+## Resources
 
 # 42 Push_Swap
 
 readme template from Sargis-Hovsepyan (https://github.com/42YerevanProjects/push_swap)
 
-Because swap_push isn't as natural
 
 Given a set of integers, sort it using a predefined set of instructions using
 two stacks. The instruction set is defined below. This program outputs a program
