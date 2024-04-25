@@ -32,7 +32,7 @@ it that can't be executed won't.
 To run the "push_swap" project, clone the repository containing the project files from GitHub:
 
 ```bash
-git clone https://github.com/dansylvain/42_pushswap push_swap
+git clone https://github.com/dansylvain/42_pushswap
 ```
 
 ### Compiling the Project
@@ -40,7 +40,7 @@ git clone https://github.com/dansylvain/42_pushswap push_swap
 Navigate to the project directory and compile the project using the provided Makefile. Here's how:
 
 ```bash
-cd push_swap
+cd 42_push_swap
 make
 ```
 
