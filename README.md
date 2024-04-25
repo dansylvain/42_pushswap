@@ -32,7 +32,7 @@ it that can't be executed won't.
 To run the "push_swap" project, clone the repository containing the project files from GitHub:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/dansylvain/42_pushswap push_swap
 ```
 
 ### Compiling the Project
@@ -40,7 +40,7 @@ git clone <repository_url>
 Navigate to the project directory and compile the project using the provided Makefile. Here's how:
 
 ```bash
-cd push_swap_repo
+cd push_swap
 make
 ```
 
@@ -48,6 +48,7 @@ This will compile the project and generate an executable file named push_swap. F
 ```bash
 make bonus
 ```
+This will compile generate an executable file named checker.
 
 ### Running the Sorting Algorithm
 
