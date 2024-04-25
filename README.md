@@ -81,7 +81,7 @@ I decided to add a pre calculation of the Longest Increasing Subsequence (LIS) i
 
 The elements are then pushed orderly back to pile_a, each time pushing the "cheapest" one to get back. Once all elements are back, the smallest element is brought to the top of the pile with rotations.
 
-More pre-sorting could be done using more pivots, which are already calculated, but the project targets are already hit and it is not necessary.
+More pre-sorting could be done using more pivots, which are already calculated, but the project targets are already hit and it is not necessary. A complete article about my algorithm [here](https://medium.com/@dansylvain84/my-implementation-of-the-42-push-swap-project-2706fd8c2e9f).
 
 Calculations are all done on the stack to simplify memory management. Memory is allocated for:
 - the structure
