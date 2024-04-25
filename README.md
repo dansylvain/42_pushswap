@@ -119,5 +119,7 @@ Links
 
 - [push swap visualizer](https://github.com/o-reo/push_swap_visualizer)
 
-- [My implementation of the 42 — push_swap project](https://medium.com/@dansylvain84/my-implementation-of-the-42-push-swap-project-2706fd8c2e9f)
+<ul>
+  <li><a href="https://medium.com/@dansylvain84/my-implementation-of-the-42-push-swap-project-2706fd8c2e9f" target="_blank">My implementation of the 42 — push_swap project</a></li>
+</ul>
 
