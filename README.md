@@ -65,7 +65,7 @@ Replace **4 2 1 3** with the list of integers you want to sort. The algorithm wi
 You can validate the sorting performed by the algorithm using the **checker** executable. Pass the same list of integers to **checker**, followed by the series of instructions output by **push_swap**:
 
 ```bash
-./checker 4 2 1 3 | ./push_swap 4 2 1 3
+./push_swap 4 2 1 3 | ./checker 4 2 1 3
 ```
 
 If the sorting is correct, checker will output **OK**. Otherwise, it will output **KO**.
